@@ -1,7 +1,8 @@
 # Taller 2: Repositorios en GitHub
 
-**Nombre:**
-**Fecha:**
+**Nombre: Santiago Melo Medina**
+
+**Fecha: 10/Agosto/2026**
 
 ---
 
